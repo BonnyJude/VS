@@ -76,7 +76,7 @@ Each Jupyter notebook for this project is aimed at investigating specific aspect
 
 To identify the most in-demand skills for the top three popular data roles, I begin by filtering the positions by popularity and then pinpointed the top five skills associated with each role. This analysis highlights the leading job titles and their essential skills, helping me determine which abilities to prioritize as I work toward my goal of becoming a Data Scientist.
 
-You can view the detailed steps here: [2_Skills_Demand.](3_Project\2_Skills_Demand.ipynb)
+You can view the detailed steps here: [2_Skills_Demand.](3_Project/2_Skills_Demand.ipynb)
 
 ### Visualizing Data
 
@@ -127,7 +127,7 @@ This chart breaks down the most in-demand skills for three different roles: Data
 
 To analyze how skills for Data Scientists trended over the past year, I filter the Data Scientist positions and group the skills by the month of the job postings. This approach allow me to identify the top five skills for Data Scientists each month, revealing how the popularity of these skills trended throughout the year.
 
-The detailed steps can be found here, [3_Skills_Trend.](3_Project\3_Skills_Trend.ipynb)
+The detailed steps can be found here, [3_Skills_Trend.](3_Project/3_Skills_Trend.ipynb)
 
 ### Visualizing Data
 
@@ -173,7 +173,7 @@ These insights suggest that focusing on Python and SQL would provide the most be
 
 To identify the highest paying roles and skills, I filter for job postings in the United States and their median salary. But first I look at the salary distributions of common data jobs like Data Analysts and Data Engineers to get an idea of which jobs tend to earn more.
 
-You can check that out here, [4_Salary_Analysis.](3_Project\4_Salary_Analysis.ipynb)
+You can check that out here, [4_Salary_Analysis.](3_Project/4_Salary_Analysis.ipynb)
 
 ### Visualizing Data
 
@@ -261,7 +261,7 @@ In order to identify the most optimal skills to learn, ideally, we would need to
 
 To make things more detailed, I colour-code the skills based on which technological group they belong.
 
-The detailed steps can be found here, [5_Optimal_Skills](3_Project\5_Optimal_Skills.ipynb)
+The detailed steps can be found here, [5_Optimal_Skills](3_Project/5_Optimal_Skills.ipynb)
 
 ### Visualizing Data
 
