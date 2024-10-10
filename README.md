@@ -111,7 +111,7 @@ plt.show()
 
 ### Results
 
-![Bar chart showing the percentage of a skill showing up on a job posting for any of the top 3 Data job postings in the US in 2023](3_Project\Images\Percentage_of_Top_Skills_in_Data_Job_Postings_in_the_US.png)
+![Bar chart showing the percentage of a skill showing up on a job posting for any of the top 3 Data job postings in the US in 2023](3_Project/Images/Percentage_of_Top_Skills_in_Data_Job_Postings_in_the_US.png)
 
 ### Insights
 
@@ -153,7 +153,7 @@ plt.show()
 
 ### Results
 
-![Line chart showing how the demand for each skill trended throughout the year](3_Project\Images\Top_Trending_Skills.png)
+![Line chart showing how the demand for each skill trended throughout the year](3_Project/Images/Top_Trending_Skills.png)
 
 ### Insights
 
@@ -192,7 +192,7 @@ plt.show()
 
 ### Results
 
-![Boxplot showing the distribution of salary among the top data jobs in the US in 2023](3_Project\Images\Boxplot_Distrubution_of_Top_Data_Jobs_in_the_US.png)
+![Boxplot showing the distribution of salary among the top data jobs in the US in 2023](3_Project/Images/Boxplot_Distrubution_of_Top_Data_Jobs_in_the_US.png)
 
 ### Insights
 
@@ -244,7 +244,7 @@ plt.show()
 
 ### Results
 
-![Chart showing the top highest paying vs most demanded skills for data scientists in the US in 2023](3_Project\Images\Duoble_Barh_plot_for_Investigative_Salary_Analysis.png)
+![Chart showing the top highest paying vs most demanded skills for data scientists in the US in 2023](3_Project/Images/Duoble_Barh_plot_for_Investigative_Salary_Analysis.png)
 
 ### Insights
 
@@ -295,7 +295,7 @@ plt.show()
 
 ### Results
 
-![Scatter plot highlighting the most popular data science skill and their median pay in the US in 2023](3_Project\Images\Scatter_Plot_Most_In-Demand_Skills_For_Data_Scientist.png)
+![Scatter plot highlighting the most popular data science skill and their median pay in the US in 2023](3_Project/Images/Scatter_Plot_Most_In-Demand_Skills_For_Data_Scientist.png)
 
 ### Insights
 
